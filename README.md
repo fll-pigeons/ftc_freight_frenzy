@@ -17,3 +17,12 @@ Virtual Robot Simulator is a simple, easy-to-use platform that allows FTC teams 
 ## Books
 
 ### [Learn Java for FTC](https://raw.githubusercontent.com/alan412/LearnJavaForFTC/master/LearnJavaForFTC.pdf)
+
+# JVM in Javascript
+
+### [doppio](https://plasma-umass.org/doppio-demo/)
+### [+script](https://www.keithschwarz.com/+script/)
+### [JavaScriptJVM](http://jivings.github.io/jsJVM/)
+### [jsJVM](https://github.com/Jivings/jsJVM)
+### [bck2brwsr](https://github.com/jtulach/bck2brwsr)
+### [BicaVM](https://www.surf-the-edge.com/2011/11/15/bicavm-jvm-in-javascript-why/)
