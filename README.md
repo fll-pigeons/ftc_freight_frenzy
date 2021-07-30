@@ -13,3 +13,7 @@ Virtual Robot Simulator is a simple, easy-to-use platform that allows FTC teams 
 ### 2D Simulator
 #### [virtual_robot](https://github.com/Beta8397/virtual_robot)
   A 2D simulator to help beginning Java programmers learn to program for FTC Robotics.
+
+## Books
+
+### [Learn Java for FTC](https://raw.githubusercontent.com/alan412/LearnJavaForFTC/master/LearnJavaForFTC.pdf)
