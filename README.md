@@ -1,5 +1,7 @@
 # ftc_freight_frenzy
 
+## [FTC Programming Resources](https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources)
+
 ## Simulator
 
 ### 3D Java 
