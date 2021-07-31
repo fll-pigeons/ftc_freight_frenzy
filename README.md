@@ -1,5 +1,7 @@
 # ftc_freight_frenzy
 
+## [Kit comparisons](https://ftctutorials.com/translations/en-us/Robot/VendorsAndBaseKits.pdf)
+
 ## Programming Resources 
 - [FTC](https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources)
 - [FTC Youtube playlist](https://www.youtube.com/playlist?list=PLEuGrYl8iBm4A4yrRcatGcK7q0od0LYov)
