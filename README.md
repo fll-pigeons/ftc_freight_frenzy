@@ -4,6 +4,9 @@
 
 ## Simulator
 
+### [FTC SIM](https://www.firstroboticscanada.org/ftc/sim/)
+#### [Pixelpad](https://pixelpad.io/ftcsim/)
+
 ### 3D Java 
 
 #### [Virtual Robot Simulator](http://virtualftc.org/get-started/)
